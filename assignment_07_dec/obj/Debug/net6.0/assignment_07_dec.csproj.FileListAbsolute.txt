@@ -1,0 +1,15 @@
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.csproj.AssemblyReference.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.AssemblyInfoInputs.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.AssemblyInfo.cs
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\bin\Debug\net6.0\assignment_07_dec.exe
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\bin\Debug\net6.0\assignment_07_dec.deps.json
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\bin\Debug\net6.0\assignment_07_dec.runtimeconfig.json
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\bin\Debug\net6.0\assignment_07_dec.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\bin\Debug\net6.0\assignment_07_dec.pdb
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\refint\assignment_07_dec.dll
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.pdb
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\assignment_07_dec.genruntimeconfig.cache
+C:\Users\Pavilion (Fikret)\source\repos\assignment_07_dec\assignment_07_dec\obj\Debug\net6.0\ref\assignment_07_dec.dll
