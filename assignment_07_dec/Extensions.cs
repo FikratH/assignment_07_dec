@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Metrics;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Nodes;
 using System.Threading.Tasks;
 
 namespace assignment_07_dec
@@ -15,6 +16,7 @@ namespace assignment_07_dec
             string checkedStrLow = checkedStr.ToLower(); //rld
             int checkIndex = 0;
             int i;
+
             for (i = 0; i < strLow.Length; i++)
             {
                 if (strLow[i] == checkedStrLow[checkIndex])
@@ -28,7 +30,6 @@ namespace assignment_07_dec
                 else
                 {
                     checkIndex = 0;
-                    i--;
                 }
             }
             return $"The sentence does NOT contain '{checkedStr}'."; ;
